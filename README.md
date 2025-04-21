@@ -1,2 +1,2 @@
-# arch-rofi-menu
-Script for exit arch in rofi
+# archrofi-power-menu
+Script for exit arch with dwm in rofi 
